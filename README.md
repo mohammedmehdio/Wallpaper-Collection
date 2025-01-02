@@ -15,7 +15,7 @@ This repository serves as a centralized location for high-quality wallpapers, ta
 ## 📜 How to Use
 1. Clone the repository:
    ```bash
-   https://github.com/mohammedmehdio/Wallpaper-Collection.git
+   git clone https://github.com/mohammedmehdio/Wallpaper-Collection.git
    ```
 2. Navigate to the desired folder:
    ```bash
