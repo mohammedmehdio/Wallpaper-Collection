@@ -6,7 +6,7 @@ This repository contains a curated collection of wallpapers suitable for various
 
 - **Kali Linux backgrounds**
 - **Arch Linux backgrounds**
-- **Hyperland backgrounds**
+- **Hyprland backgrounds**
 - And more...
 
 ## 🎯 Purpose
