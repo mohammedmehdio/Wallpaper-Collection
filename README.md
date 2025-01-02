@@ -15,11 +15,11 @@ This repository serves as a centralized location for high-quality wallpapers, ta
 ## 📜 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wallpaper-collection.git
+   https://github.com/mohammedmehdio/Wallpaper-Collection.git
    ```
 2. Navigate to the desired folder:
    ```bash
-   cd wallpaper-collection/wallpapers/kali-linux
+   cd wallpaper-collection/kali-linux
    ```
 3. Copy the wallpaper to your desktop environment:
    ```bash
