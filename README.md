@@ -34,9 +34,6 @@ Contributions are welcome! If you have wallpapers that fit the themes, feel free
 2. Add your wallpapers to the appropriate folder or create a new category.
 3. Submit a pull request with a description of your additions.
 
-## 📜 License
-This repository is distributed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Ensure that your contributions comply with this license.
-
 ## 🤝 Acknowledgements
 Special thanks to the creators of these amazing wallpapers. Please ensure proper attribution if required.
 
